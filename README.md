@@ -1,13 +1,19 @@
-# MOSINT
+# MOSINT - Beta version.
+
 Simple bash script for automaing the threat investigation process 
 
 Reuirments:
+
 ###################
+
 Linux OS
 
-To start:\n
-###################\n
-bash ./MOSINT.sh\n
+To start:
+
+
+###################
+bash ./MOSINT.sh
+
 
 
 #############
