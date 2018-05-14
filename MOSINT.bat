@@ -28,6 +28,7 @@ EXIT /B 0
 :Threat investigation
 SET /P TARGET=Please enter target: 
 start "VirusToal" "https://www.virustotal.com/#/search/%TARGET%"
+start "IBMXforce" "https://exchange.xforce.ibmcloud.com/url/%TARGET%"
 start "OTX AlienVault" "https://otx.alienvault.com/browse/pulses?q=%TARGET%"
 start "ThreatCrowd" "https://www.threatcrowd.org/domain.php?domain=%TARGET%"
 start "SHODAN" "https://www.shodan.io/search?query=%TARGET%"
