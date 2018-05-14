@@ -4,7 +4,7 @@ Simple bash script for automaing the threat investigation process
 
 #############
 Reuirments:
-##########
+#########
 
 Linux OS
 
