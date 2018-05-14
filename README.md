@@ -6,14 +6,17 @@ Simple bash script for automaing the threat investigation process
 Reuirments:
 #########
 
-Linux OS
+Linux OR Windoes OS
 
 #############
 To start:
 ############
 
+* Linux:
 bash ./MOSINT.sh
 
+* Windows:
+ just run MOSINT.bat
 
 #############
 TO DO
@@ -22,7 +25,6 @@ TO DO
 * Information scraping uning regex
 * More Pastebin sites
 * Auto report generating
-* Add Windows support
 
 ################################
 
