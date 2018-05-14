@@ -20,7 +20,7 @@ TO DO
 #############
 
 * Information scraping uning regex
-* More Pastebin site
+* More Pastebin sites
 * Auto report generating
 * Add Windows support
 
