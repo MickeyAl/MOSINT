@@ -12,6 +12,8 @@ To start:
 
 
 ###################
+
+
 bash ./MOSINT.sh
 
 
