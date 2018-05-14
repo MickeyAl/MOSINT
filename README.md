@@ -4,7 +4,7 @@ Simple bash script for automaing the threat investigation process
 
 #############
 Reuirments:
-#############
+###########
 
 Linux OS
 
@@ -24,7 +24,7 @@ TO DO
 * Auto report generating
 * Add Windows support
 
-##############################
+################################
 
 
 Inspired by "PAVELOW exploit box"
