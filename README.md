@@ -5,9 +5,9 @@ Reuirments:
 ###################
 Linux OS
 
-To start:
-###################
-bash ./MOSINT.sh
+To start:\n
+###################\n
+bash ./MOSINT.sh\n
 
 
 #############
