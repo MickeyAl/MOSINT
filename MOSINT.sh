@@ -47,6 +47,8 @@ read TARGET
 
 # VirusToal
 $BROWSER "https://www.virustotal.com/#/search/$TARGET" 2> /dev/null
+# XForce
+$BROWSER "https://exchange.xforce.ibmcloud.com/url/$TARGET" 2> /dev/null
 # OTX AlienVault
 $BROWSER "https://otx.alienvault.com/browse/pulses?q=$TARGET" 2> /dev/null
 # ThreatCrowd
